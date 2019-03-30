@@ -1,0 +1,836 @@
+@charset "utf-8";
+@import url("../webfonts/VTC_KreepyKomikaTwo_Shadow/stylesheet.css");
+@import url("../webfonts/VTC_KomikaHeadLinerChewdFat/stylesheet.css");
+@import url("../webfonts/VTC_KomikaHeadLinerChewdUp/stylesheet.css");
+@import url("../webfonts/VTC_KreepyKomikaOne_Bold/stylesheet.css");
+
+
+
+
+header .primary_header .title {
+	background-color: rgba(254,0,0,1.00);
+}
+.container header .primary_header {
+	background-image: url(../_images/random/bakerbannermed.png);
+	min-height: 144px;
+	background-size: cover;
+}
+.container header #menu {
+	background-color: rgba(2,2,2,1.00);
+	font-family: "VTC KreepyKomikaTwo Shadow";
+}
+#menu ul li {
+	font-size: 1.1em;
+}
+.container .social {
+	background-color: rgba(229,0,21,1.00);
+	margin-top: 30px;
+}
+.container .secondary_header.footer {
+	background-repeat: no-repeat;
+	background-position: center 0%;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	background-color: rgba(2,2,2,1.00);
+
+}
+.container article {
+	background-repeat: repeat;
+	background-color: rgba(169,179,182,1.00);
+	border-style: ridge;
+	border-color: rgba(0,0,0,1.00);
+}
+
+.copyright ul li {
+	width: 24%;
+	background-color: rgba(2,2,2,1.00);
+	float: left;
+}
+.copyright ul {
+	background-color: rgba(0,0,0,1.00);
+}
+body {
+	background-color: rgba(0,0,0,1.00);
+	font-family: "VTC KreepyKomikaTwo Shadow";
+}
+
+
+.container section .currentSeason {
+	text-align: center;
+	color: rgba(167,223,222,1.00);
+	background-repeat: repeat-x;
+	background-image: url(../_images/random/pineapple.jpg);
+	min-height: 190px;
+	font-family: "VTC KreepyKomikaOne Bold";
+	padding-top: 0px;
+	margin-top: 0px;
+}
+section .currentSeason h2 {
+	font-size: 2em;
+	background-color: rgba(0,0,0,1.00);
+	top: 85px;
+	position: relative;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+tbody tr th, tbody tr td {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2%;
+	padding-right: 2%;
+	padding-bottom: 2%;
+	padding-left: 2%;
+	text-align: center;
+}
+
+tbody tr th {
+	background-color: rgba(19,0,1,1.00);
+	color: rgba(255,255,255,1.00);
+	font-size: 1.2em;
+	border-style: double;
+	border-color: rgba(229,0,21,1.00);
+	text-align: center;
+}
+article .teammatephoto img {
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+tbody tr td {
+	text-align: center;
+	background-color: rgba(255,255,255,1.00);
+}
+.indTeam h1  {
+	display: block;
+	float: none;
+	clear: left;
+	text-align: center;
+	background-color: rgba(229,0,21,1.00);
+	color: rgba(0,0,0,1.00);
+	font-weight: bolder;
+	margin-bottom: 0px;
+	padding-bottom: 6px;
+}
+.secondary_header.footer .copyright ul {
+	background-color: rgba(2,2,2,1.00);
+}
+#collapseOne1 .card-body ul {
+	text-decoration: none;
+	list-style-type: none;
+}
+.mobileHeader #accordion1 {
+	background-color: rgba(0,0,0,1.00);
+}
+#accordion1 .card #headingOne1 {
+	color: rgba(255,255,255,1.00);
+	background-color: rgba(0,0,0,1.00);
+}
+#headingOne1 .mb-0 a {
+	color: rgba(255,255,255,1.00);
+}
+#accordion1 .card #collapseOne1 {
+	background-color: rgba(0,0,0,1.00);
+}
+
+
+
+
+
+.card-body ul li {
+	color: rgba(255,255,255,1.00);
+	background-color: rgba(0,0,0,1.00);
+}
+.secondary_header.footer {
+	background-color: rgba(0,0,0,1.00);
+}
+.container section .left_article {
+	width: 90%;
+	display: block;
+	margin-left: 7%;
+	margin-right: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	color: rgba(255,255,255,1.00);
+	background-color: rgba(0,0,0,1.00);
+}
+section .left_article p {
+	color: rgba(255,255,255,1.00);
+	background-color: rgba(0,0,0,1.00);
+}
+
+.left_article .newProduct img {
+	float: right;
+}
+.left_article .newProduct {
+	margin-left: auto;
+	margin-right: 9%;
+	width: 100%;
+	background-color: rgba(255,255,255,1.00);
+	display: inline-block;
+	margin-top: 75px;
+}
+section .left_article h3 {
+	background-color: rgba(0,0,0,1.00);
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+#indexBody .row .columns {
+	background-color: rgba(255,255,255,1.00);
+	border-style: solid;
+	border-color: rgba(229,0,21,1.00);
+}
+
+
+.container .indexvideodiv {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-color: rgba(213,70,198,1.00);
+	margin-bottom: 20px;
+}
+#indexBody h1  {
+	background-color: rgba(255,255,255,1.00);
+	text-align: center;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+}
+
+.container .indexvideodiv iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.left_article .newProduct h4 {
+	background-color: rgba(255,255,255,1.00);
+	color: rgba(0,0,0,1.00);
+	display: block;
+	width: 30%;
+	float: left;
+}
+#indexBody {
+	background-image: url(../_images/random/tiedyemed.png);
+}
+.secondary_header.footer .copyright ul li a:hover  {
+	color: #717070;
+	cursor: pointer;
+	text-decoration: none;
+}
+.copyright ul li a {
+	color: rgba(255,255,255,1.00);
+}
+.left_article .biodiv {
+	border-color: rgba(229,0,21,1.00) rgba(231,112,198,1.00) rgba(231,112,198,1.00);
+	border-top-style: solid;
+}
+.card .card-header {
+	background-color: rgba(0,0,0,1.00);
+}
+.card .card-header .mb-0 a {
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+}
+.card .card-header .mb-0  {
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+}
+.card-body   {
+	color: rgba(0,0,0,1.00);
+}
+.indTeam {
+	background-image: url(../_images/random/tiedyemed.png);
+}
+.teammatephoto {
+	margin-bottom: 28px;
+}
+.indTeam table tbody {
+	display: block;
+	margin-left: 0px;
+}
+.nxtTeamMate h1 {
+	display: inline-block;
+	width: 40%;
+	float: none;
+	text-align: center;
+	background-color: rgba(255,255,255,1.00);
+	margin-left: 6px;
+	margin-right: 36px;
+}
+.nxtTeamMate h1 a {
+	color: rgba(0,0,0,1.00);
+}
+#menu ul li a {
+	color: rgba(255,255,255,1.00);
+}
+.row .columns h4 {
+	color: rgba(0,0,0,1.00);
+}
+.row .columns h4 a {
+	color: rgba(0,0,0,1.00);
+}
+.row .columns .btn.btn-primary {
+	background-color: rgba(229,0,21,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(126,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(126,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(126,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(126,0,0,1.00) 100%);
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.row .columns p {
+	text-align: center;
+}
+#indexapparel .columns a {
+	color: rgba(0,0,0,1.00);
+}
+#indexBody section div img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+section .boardViewer .boardImg {
+	margin-left: auto;
+	margin-right: auto;
+}
+.boardViewer .boardImg img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#clothingnav1 .nav-item #hatstab1 {
+	color: rgba(0,0,0,1.00);
+}
+#clothingnav1 .nav-item.dropdown .nav-link.dropdown-toggle {
+	color: rgba(0,0,0,1.00);
+}
+#clothingnav1 .nav-item #hometab1 {
+	color: rgba(0,0,0,1.00);
+}
+
+
+
+#clothingnav1 .nav-item  {
+	border-style: double;
+	border-color: rgba(229,0,21,1.00);
+	font-weight: bolder;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+	color: rgba(0,0,0,1.00);
+}
+section .boardViewer .container-fluid {
+	background-color: rgba(242,242,242,1.00);
+}
+#clothingnavcontent1 #home1 p {
+}
+.boardViewer p {
+	padding-top: 4%;
+	padding-right: 4%;
+	padding-bottom: 4%;
+	padding-left: 4%;
+}
+section .boardViewer h1 {
+	background-color: rgba(229,0,21,1.00);
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+	width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 29px;
+	background-image: -webkit-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(270deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	font-family: "VTC KreepyKomikaOne Bold";
+	font-size: 3.2em;
+	margin-top: 30px;
+}
+.apparel .apparelViewer h1 {
+	background-color: rgba(229,0,21,1.00);
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+	width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 29px;
+	background-image: -o-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -webkit-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(270deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	font-family: "VTC KreepyKomikaOne Bold";
+	font-size: 3.2em;
+	margin-top: 30px;
+}
+
+.container section .boardViewer {
+	border-style: solid;
+	border-color: rgba(138,189,208,1.00);
+	background-image: url(../_images/teampics/cjad.jpg);
+	background-position: 28% 0%;
+	background-repeat: repeat-x;
+	background-color: rgba(137,188,207,1.00);
+}
+#apparel {
+	background-image: url(../_images/random/pineapple.jpg);
+	background-position: 0% bottom;
+}
+
+#home1 p a {
+	color: rgba(229,0,21,1.00);
+	font-size: 2.2em;
+	font-family: "VTC KreepyKomikaOne Bold";
+}
+
+.social_icon a .thumbnail {
+	-webkit-box-shadow: 7px 7px 10px #FFFFFF;
+	box-shadow: 7px 7px 10px #FFFFFF;
+}
+.nav-item.dropdown .dropdown-menu #dropdownshoestab1 h5 a {
+	color: rgba(229,0,21,1.00);
+}
+.nav-item.dropdown .dropdown-menu #dropdownbootstab1 h5 a {
+	color: rgba(229,0,21,1.00);
+}
+#dscrpt {
+	width: 26%;
+	display: block;
+	float: right;
+	background-color: rgba(0,0,0,1.00);
+	color: rgba(251,251,251,1.00);
+	margin-right: 2%;
+}
+.apparelViewer #dscrpt div {
+	-webkit-box-shadow: -10px 10px 0px 1px;
+	box-shadow: -10px 10px 0px 1px;
+	border-radius: 9px;
+}
+
+.apparel .apparelViewer .card.text-center.col-md-4 {
+	float: right;
+	width: 24%;
+	display: block;
+}
+
+.apparelViewer #dscrpt p {
+	padding-top: 12%;
+	padding-right: 12%;
+	padding-bottom: 12%;
+	padding-left: 12%;
+}
+
+.apparel .apparelViewer .apparelImg {
+	width: 27%;
+	border-style: double;
+	border-color: rgba(221,63,213,1.00);
+}
+.container .apparel .apparelViewer {
+	background-image: url(../_images/random/pineapple.jpg);
+}
+.container .apparel h2 {
+	font-size: 2em;
+	background-color: rgba(0,0,0,1.00);
+	top: 85px;
+	position: relative;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.container .apparel .currentSeason-rmv-bckgrnd {
+	border-style: ridge;
+	border-color: rgba(203,63,200,1.00);
+}
+div .dropdown.show .btn.btn-lg.dropdown-toggle {
+	color: rgba(255,255,255,1.00);
+}
+#dscrpt div .dropdown.show:disabled {
+	color: rgba(255,255,255,1.00);
+}
+.apparel #moreapp h2 {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	top: 0px;
+	background-color: rgba(229,0,21,1.00);
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+	width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 29px;
+	background-image: -moz-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -webkit-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(270deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	font-family: "VTC KreepyKomikaOne Bold";
+	font-size: 3.2em;
+}
+.apparel #moreapp img {
+	display: block;
+	float: right;
+	margin-left: 5%;
+	margin-right: auto;
+	margin-top: 10px;
+}
+.container #moreapp h2 {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	top: 0px;
+	background-color: rgba(229,0,21,1.00);
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+	width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 29px;
+	background-image: -o-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -webkit-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(270deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	font-family: "VTC KreepyKomikaOne Bold";
+	font-size: 3.2em;
+}
+div .dropdown.show .btn.btn-primary {
+	margin-left: auto;
+	display: block;
+	padding-left: 0px;
+	margin-right: auto;
+	padding-bottom: 3px;
+	top: 0px;
+}
+#dscrpt div .dropdown.show {
+	padding-bottom: 13px;
+}
+.container #cartapologies {
+	font-family: "VTC KreepyKomikaOne Bold";
+	font-size: 3.3em;
+	text-align: center;
+	padding-top: 6%;
+	padding-right: 6%;
+	padding-bottom: 6%;
+	padding-left: 6%;
+}
+.container .vidDiv div {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(0,0,0,1.00);
+}
+.vidDiv div h2 {
+	text-align: center;
+	background-color: rgba(229,0,21,1.00);
+	color: rgba(255,255,255,1.00);
+	width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 29px;
+	background-image: -o-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -webkit-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(180deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(270deg,rgba(231,91,93,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	font-family: "VTC KreepyKomikaOne Bold";
+	font-size: 3.2em;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.vidDiv div iframe {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 70%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:600px){
+div .dropdown.show .btn.btn-lg.dropdown-toggle:visited  {
+	color: rgba(255,255,255,1.00);
+	background-image: url(../_images/random/tiedyemed.png);
+}
+#clothingnav1 .nav-item a  {
+	border-style: double;
+	border-color: rgba(229,0,21,1.00);
+	font-weight: bolder;
+}
+.nxtTeamMate h1:first-of-type  {
+	display: block;
+	width: 28%;
+	float: none;
+	text-align: center;
+	background-color: rgba(255,255,255,1.00);
+}
+.secondary_header.footer .copyright ul li a {
+	color: rgba(255,255,255,1.00);
+}
+
+.container header #menu {
+	display: none;
+}
+.mobileHeader {
+	position: relative;
+	top: 131px;
+}
+#toobig {
+	display: none;
+}
+.copyright ul li {
+	padding-top: 7px;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	width: 100%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: rgba(255,255,255,1.00);
+}
+
+section .left_article .newProduct img {
+	margin-left: auto;
+	margin-right: 19%;
+	display: block;
+	width: 70%;
+}
+.left_article .biodiv img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 0px;
+	margin-top: 13px;
+	margin-bottom: 16px;
+}
+.biodiv .bioNames {
+	display: none;
+}
+body {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width:950px){
+.container header .primary_header {
+	background-position: 0% 80%;
+}
+.left_article .newProduct img {
+	max-width: 25%;
+}
+.indTeam table tbody {
+	margin-left: 17%;
+	display: block;
+
+
+}
+
+
+
+
+}
+
+@media (min-width:601px){
+.primary_header .mobileHeader {
+	display: none;
+}
+section .left_article h3 {
+	color: rgba(255,255,255,1.00);
+	background-color: rgba(0,0,0,1.00);
+	text-align: center;
+}
+#accordion8 .card #headingThree7 {
+	display: none;
+}
+
+
+
+
+}
+
+@media (min-width:601px) and (max-width:901px){
+.left_article .newProduct img {
+	width: 50%;
+}
+
+}
+
+@media (max-width:750px){
+
+
+}
+
+@media (min-width:751px){
+.indTeam table {
+	width: 90%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.indTeam {
+	margin-bottom: 12px;
+
+}
+
+
+}
+
+@media (max-width:1000px){
+.apparel .apparelViewer  {
+	width: 90%;
+	clear: both;
+	display: block;
+}
+.apparel .apparelViewer h1 {
+	margin-top: 50px;
+}
+.container .apparel #moreapp {
+	clear: both;
+	padding-top: 19px;
+}
+#moreapp a img  {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+	float: none;
+
+}
+
+#dscrpt   {
+	width: 90%;
+	margin-bottom: 63px;
+	font-size: 2em;
+	text-align: center;
+
+}
+.carousel-inner .carousel-item.active .carousel-caption {
+	bottom: 0px;
+	position: relative;
+	left: auto;
+	width: 68%;
+	margin-left: auto;
+}
+
+
+
+
+}
+
+@media (min-width:1001px){
+.dropdown.show a .btn.btn-primary {
+	float: right;
+	margin-right: 13%;
+	margin-top: 7px;
+}
+
+}

@@ -1,0 +1,85 @@
+@charset "utf-8";
+body {
+}
+body img {
+}
+.left_article .biodiv img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 0px;
+	margin-top: 13px;
+	margin-bottom: 16px;
+}
+.left_article {
+
+}
+.biodiv:last-child {
+	margin-bottom: 35px;
+}
+.card-body a {
+	color: rgba(229,0,21,1.00);
+}
+.left_article .biodiv .bioNames a {
+	color: rgba(255,255,255,1.00);
+}
+#menu ul li a {
+}
+
+
+
+
+
+
+
+
+@media (max-width:750px){
+.card-body a:hover  {
+	color: rgba(229,0,21,1.00);
+}
+.left_article .biodiv .bioNames {
+	display: none;
+}
+
+}
+
+@media (min-width:751px){
+.left_article .biodiv #accordion2, #accordion3, #accordion4, #accordion5, #accordion6, #accordion7 {
+	display: none;
+}
+.left_article .biodiv img {
+	display: block;
+}
+.left_article .biodiv {
+	width: 47%;
+	display: block;
+	float: left;
+	max-height: 185px;
+	margin-top: 49px;
+
+}
+
+
+
+
+}
+
+@media (min-width:960px){
+.left_article .biodiv {
+	width: 50%;
+}
+
+}
+
+@media (min-width: 1163px){
+.left_article .biodiv {
+	width: 32%;
+	min-width: 0px;
+}
+.left_article .biodiv .bioNames {
+	text-align: center;
+	bottom: 4px;
+}
+
+
+}

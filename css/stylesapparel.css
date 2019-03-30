@@ -1,0 +1,36 @@
+@charset "utf-8";
+.carousel-inner .carousel-item .carousel-caption {
+	width: 23%;
+	display: block;
+	margin-right: 0px;
+	top: 0px;
+	margin-left: 50%;
+	background-color: rgba(0,0,0,1.00);
+	max-height: 128px;
+}
+#carouselExampleIndicators1 .carousel-control-prev .carousel-control-prev-icon {
+	color: rgba(0,0,0,1.00);
+	background-color: rgba(0,0,0,1.00);
+}
+#carouselExampleIndicators1 .carousel-control-next .carousel-control-next-icon {
+	background-color: rgba(0,0,0,1.00);
+}
+
+
+.productView #carouselExampleIndicators1 .carousel-control-prev {
+	color: rgba(0,0,0,1.00);
+}
+#carouselExampleIndicators1 .carousel-control-prev .sr-only {
+	color: rgba(0,0,0,1.00);
+}
+
+
+.carousel-item .carousel-caption a {
+	color: rgba(255,255,255,1.00);
+	background-color: rgba(0,0,0,1.00);
+}
+
+
+.productView #carouselExampleIndicators1 .carousel-inner {
+	background-image: url(../_images/random/bombmed.jpg);
+}
